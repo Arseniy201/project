@@ -1,0 +1,5 @@
+name = input('Hi! What is your name? ')
+print(f'Hi! {name}, my name is pyton')
+age = input('How old are you? ')
+city = input('Where are you from? ')
+print(f'Nice! {city}, is a beuatiful city')
